@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suulola)
 [![X](https://img.shields.io/badge/-@iamsuulola-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamsuulola)
 
-Senior Full-Stack Developer specialising in AI integration for product teams. I build LLM workflow infrastructure, ship production fintech systems, and run an AI-native engineering workflow daily.
+Full-Stack Developer specialising in AI integration for product teams. I build LLM workflow infrastructure, ship production fintech systems, and run an AI-native engineering workflow daily.
 
 - 🤖 Currently: integrating AI into product stacks — LLM workflow editors, RAG, context engineering
 - 📫 [oluwaseyisuulola@gmail.com](mailto:oluwaseyisuulola@gmail.com)
