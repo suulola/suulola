@@ -1,15 +1,15 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suulola)](https://www.linkedin.com/in/suulola) [![Twitter Badge](https://img.shields.io/badge/-@iamsuulola-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamsuulola)](https://twitter.com/iamsuulola)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://me.theprosplace.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suulola)
+[![X](https://img.shields.io/badge/-@iamsuulola-3B7EBF?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamsuulola)
 
-I'm a Software Engineer proficient in Javascript/Typescript framweworks for both Mobile, Web and Backend Development. I am passionate about sharing knowledge, documentation, web engineering.
-- 😊 Pronouns: He/him
-- 📫 How to reach me: DM [@iamsuulola](https://twitter.com/iamsuulola).
-<!-- - 💙 Fun fact: I'm in a blissful relationship [with Jesus Christ](https://www.goodreads.com/book/show/1147548.Jonathan_Edwards_Knowing_Christ). -->
+Senior Full-Stack Developer specialising in AI integration for product teams. I build LLM workflow infrastructure, ship production fintech systems, and run an AI-native engineering workflow daily.
+
+- 🤖 Currently: integrating AI into product stacks — LLM workflow editors, RAG, context engineering
+- 📫 [oluwaseyisuulola@gmail.com](mailto:oluwaseyisuulola@gmail.com)
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=suulola&show_icons=true&include_all_commits=true&hide_border=true" alt="Suulola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suulola&langs_count=8&layout=compact&hide=php&hide_border=true" alt="Suulola's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=suulola&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" alt="Suulola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suulola&langs_count=8&layout=compact&hide=php&hide_border=true&theme=dark" alt="Top Languages" /> |
 | ------------- | ------------- |
-
-<img src="https://gpvc.arturio.dev/suulola" alt="profile views">
